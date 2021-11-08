@@ -1,10 +1,10 @@
 # Learn Vala
 
-Repository for my exercise learning Vala.
+Repository for my exercise Learning Vala.
 
 ## Why i'm learning vala?
 
-The reasons why i'm learning Vala is because I'm using ElementaryOS right now. And i'm interested to create an GUI Application for ElementaryOS using Vala.
+The reasons why i'm learning Vala is because I'm using elementaryOS right now. And i'm interested to create an GUI Application for elementaryOS using Vala.
 
 ## Requirements
 
